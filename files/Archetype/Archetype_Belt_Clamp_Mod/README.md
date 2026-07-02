@@ -1,3 +1,4 @@
+**Deprecated Older version does not support current main branch**
 # Archetype Rail Carriage Clamp Mod
 
 https://github.com/Armchair-Heavy-Industries/Archetype
